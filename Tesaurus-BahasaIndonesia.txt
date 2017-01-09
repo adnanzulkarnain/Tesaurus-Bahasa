@@ -1433,40 +1433,57 @@ kebangkitan, kebangunan, keinsafan, kesadaran, pemberontakan, penentangan, perju
 bangkot, berlumut, gaek, karat, karatan, lumutan, tua
 bangkrut, ambruk, bapet, benjut, berantakan, boyak, gulung tikar, jeblok, kantong kering, melarat, miskin, pailit, remuk, seman, terpuruk
 kebangkrutan, deklinasi, kehancuran,kejatuhan, kemerosotan, kemunduran, keruntuhan
-
-43
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+bangku, amben, dingklik, dipan, gerai, kedera, kursi, lincak, meja, rehal, seliri, sofa
+bangsa, anak, bani, famili, familia, genus, golongan, kasta, kategori, kaum, kelas, kelompok, keluarga, kerabat, keturunan, macam, marga, orang, ordo, ras, rumpun, spesies, suku, umat, warga
+berbangsa, aristokrat, bangsawan, menak, ningrat, priayi
+kebangsaan, kewarganegaraan, nasional, nasionalisme
+sebangsa, sejenis, semacam, seragam, serupa
+bangsal, auditorium, aula, balai, balairung, barak, bedeng, belerong, bilik, gudang, jambar, kamar, lepau, los, ruang, sal
+bangsat, kepinding, kutu busuk
+bangsat, cak bedebah, celaka, durjana, jahanam, keparat, sial, terkutuk
+bangsawan, adiwangsa, andi, aristokrat, darah biru, gusti, menak, ningrat, pangeran, permasan, priayi, raden ajeng, raden ayu, raden mas, raden roro, raden, raja, tubagus
+kebangsawanan, aristokrasi, feodalisme, keningratan, kepriayian, mahardika
+bangun, bangkit, jaga, melek, terbuka, berdiri, ingat, siuman, tegak, terjaga, engah, insaf, mafhum, maklum, mengerti, sadar, tahu, mekar, membingkas, memuai, mengembang,terbit
+membangunkan, menjagakan, menyadarkan, mencacakkan, mendirikan, menegakkan, ki membakar, membangkitkan, menggelorakan, mengobarkan, menimbulkan, meniupkan, menyalakan
+kebangunan, kebangkitkan
+terbangun, terjaga, tersadar
+bangun, arsitektur, bentuk, figur, gatra, komposisi, konstruksi, pola, rupa, struktur, wujud
+membangun, membentuk, membikin, membuat, menciptakan, mendirikan, menegakkan, menyusun, merentangkan, mewujudkan, membina, memupuk, mengembangkan, menjalin, konstruktif, membantu, positif
+pembangun, pembina, pendiri
+pembangunan, pembentukan, pendirian, penyusunan, ekspansi, pengembangan, perluasan
+bangunan, gedung, konstruksi
+sebangun, identik, persis, sama, serupa
+bani, anak cucu, anak, bangsa, famili, ibnu, kaum, keluarga, kerabat, keturunan, rumpun, saudara, zuriat
+banjar, dukuh, dusun, kampung, lingkungan
+banjar, alur, banjaran, baris, deret, jajaran, jalur, jejeran, lajur, lapis, larik, leret, rangkaian, rentetan, runtun, saf, untai, urutan
+banjaran, barisan, deretan, jajaran, jejeran, rangkaian, rantaian, rentetan
+berbanjar, berbanjar-banjar, beralur-alur, berangkai-rangkai, beratur, berbaris- baris, berbuntut-buntut, berderet, berduyun-duyun, beriring-iring, berjajar, berjalur-jalur, berjejer-jejer, berlajur-lajur, berlapis-lapis, berlarik-larik, berleret-leret, bersaf-saf, bertatai-tatai, berturut-turut, beruntai-untai, beruntun-runtun, sambung-menyambung
+sebanjar, sealur, searah, sebaris, sederet, sejajar, sejalur, selajur, selapis, selarik, seleret, sepantar, serangkai, sesaf, seturut, seumur, seuntai
+banjir, air besar, air naik, air pasang, ampuh, bah, empoh, genangan, kayau, lembak, luapan, sebak, melimpah, meluap, tumpah ruah
+membanjiri, melimbur, melimpah, meluap, meluber, memenuhi, mencacapi, menenggelamkan, mengacapi, mengairi, mengampuh, mengayau, menggenangi, merendam, memadati, memenuhi, menyesaki, tumplak
+bankir, pengelola bank, cak cukong
+bantah, membantah, berkilah, bertengkar, melawan, membalah, membangkang, memberontak, memprotes, memusuhi, menampik, menangkis, mendaga, mendagi, mendebat, menegah, menengkar, menengkari, menentang, menepis, menggugat, menghujat, mengingkari, menolak, menyanggah, menyangkal, menyenta
+pembantah, badung, bandel, bengal, degil, dugal, gecul, gelo, gemblung, kepala batu, keras kepala, nakal, tambeng, tekak, pelawan, pembangkang, pemberontak, penentang, penyanggah, penyangkal
+bantahan, sanggahan, sangkalan, tentangan;
+terbantah, tertentang
+berbantah, beradu lidah, beradu mulut, beranggar lidah, berbalah, bercekcok, berdebat, bergaduh, berguam, berkelahi, berpolemik, berselisih, bersengketa, bersilat lidah, bersisalak, bertaki, bertarung, bertelingkah, bertengkar mulut, bertengkar, bertengking, bertikai, bertingkuh, perang bicara, perang mulut, ribut
+perbantahan, pertengkaran, konflik, kontroversi, pemberontakan, perbalahan, perbedaan, percekcokan, perdebatan, perebutan, perkelahian, perlawanan, permusuhan, perselisihan, pertakian, pertarungan, pertelingkahan, pertentangan, pertikaian, polemik, sawala, silang pendapat, teng-karah
+bantai, membantai, melibas, membacok, membanting, membedal, membelasah, membunuh, memotong, memukul, menakol, menaruk, mencacahi, mencincang, mendera, menembak, menendang, menerjang, mengembat, mengeroyok, menggasak, menggencet, menggorok, menghajar, menghantam, menghimpit, menginjak-injak, menikam, menimpuk, meninju, menjagal, menjotos, menonjok, menusuk, menyabat, menyabet, menyakiti, menyebat, menyembelih, menyepak, menyerang, menyerbu, menyiksa, meradak, melenyapkan, meluluh-lantakkan, melumatkan, membasmi, membersihkan, membinasakan, memusnahkan, menghancurkan, melalap, melibas, melumatkan, membabat, menaklukkan, mencukur, menewaskan, mengalahkan, mengganyang, menggilas, menggulung, menghabisi, menghancurkan, menundukkan
+pembantai, algojo, eksekutor, penjagal, penyembelih
+pembantaian, pemotongan, penjagalan, penyembelihan, abatoar, pejagalan, rumah jagal, rumah potong, genosida, pembunuhan massal, rajapati
+bantal, alas, bufer, dapra, galang, ganjal, guling, kalang, landasan, lapik, penopang, penyangga
+bantalan, alas, galang, ganjal, lambar, lapak, lapik, sarap, sendal, tatakan
+bantar, membantar, menangkal, menang kis, mencegah, menegah, menepis, mengelakkan, menghalang, menghindarkan, menjauhkan, menolak
+pembantar, benteng, penahan, penangkal, pencegah
+banteng, andeka, anoa, banting, bison, kerbau, lembu hutan, lembu liar, lembu, munding, sapi jantan, sapi, seladang
+banter, mahal, tinggi, lama, lambat, banyak, pol
+banting, ayun, buang, campak, goncang, hempas, kebas, lempar, lepas
+membanting, mencampakkan, mengeban, menggabrukkan, mengganyah, menggebrak, menghempaskan, memukul, menampar, mengempap, menggulung, berguncang
+banting harga, mendiskon, mengobral
+banting tulang, bekerja keras, berlelah-lelah, berpenat-penat, berpugak-pugak, bersakit-sakit, bersusah payah, bersusah-susah, membengkil, memeras keringat, memeras tenaga
+bantu, angkat, bela, beri, dukung, sangga, santuni, sokong, sumbang, tolong, topang, tunjang
+membantu, mendukung, mengakomodasi, menolong, menopang, menunjang, menyantuni, menyokong, menyumbang, meringankan, kondusif, kontributif, membangun, positif, sehat
+bantu-membantu, bahu-membahu, bergotong-royong, berkolaborasi, berpegangan tangan, bersama-sama, bersan dingan bahu, bersendel bahu, gotong royong, tolong-menolong
 
 
 
